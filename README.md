@@ -11,14 +11,23 @@
 ### Paper Presentation
 |         | Date      | Content                                                                               | Presenter                               |
 | :------ | :-------- | :------------------------------------------------------------------------------------ | :-------------------------------------- |
-| Week 1  | 25-01-08  | ["Kick-off Meeting"](./presentation_file/W1_HojinShin_Kick-off.pdf)                                                                  | Hojin Shin                              |
-| Week 2 | 25-01-14  |                                                |                               |
+| Week 0  | 25-01-08  | ["Kick-off Meeting"](./presentation_file/W0_HojinShin_Kick-off.pdf)                                                                  | Hojin Shin |
+| Week 1 | 25-01-14  | ["Introduction 1"](./presentation_file/W1_HojinShin_Introduction1.pdf)| Hojin Shin |
 
 
 ### Evaluation Presentation
 |        |          | Presenter                               | Contents |
 | :----- | :------- | :-------------------------------------- | :------- |
 | Week |  | |  |
+
+### Teams
+* Student:
+  - 1.Daeeun Lee, Gyeongjun Ha
+  - 2.Juhee Park, Hyoeun Chae
+  - 3.Suhwan Shin, Zhu Yongjie
+  - 4.Dayeon Wi, Seonghyeon Cho
+  - 5.Yongmin Lee, Hojin Shin
+
 
 ## Paper & Lecture List
 
