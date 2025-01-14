@@ -20,7 +20,7 @@
 | :----- | :------- | :-------------------------------------- | :------- |
 | Week |  | |  |
 
-### Teams
+## Teams
 * Student:
   - 1.Daeeun Lee, Gyeongjun Ha
   - 2.Juhee Park, Hyoeun Chae
