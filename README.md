@@ -25,7 +25,7 @@
   - 1.Daeeun Lee, Gyeongjun Ha
   - 2.Juhee Park, Hyoeun Chae
   - 3.Suhwan Shin, Zhu Yongjie
-  - 4.Dayeon Wi, Seonghyeon Cho
+  - 4.Dayeon Wee, Seonghyeon Cho
   - 5.Yongmin Lee, Hojin Shin
 
 
@@ -118,7 +118,7 @@
   - [DKU RocksDB Festival, 2021](https://github.com/DKU-StarLab/RocksDB_Festival)
 
 ## Members
-* Student: [Suhwan Shin](https://github.com/Student5421), [Zhu Yongjie](https://github.com/arashio1111), Daeeun Lee, Juhee Park, Yongmin Lee, Dayeon Wi, Seonghyeon Cho, Hyoeun Chae, Gyeongjun Ha
+* Student: [Suhwan Shin](https://github.com/Student5421), [Zhu Yongjie](https://github.com/arashio1111), Daeeun Lee, Juhee Park, Yongmin Lee, Dayeon Wee, Seonghyeon Cho, Hyoeun Chae, Gyeongjun Ha
 * Assistant: [Hojin Shin](https://github.com/shinhojin), [Guangxun Zhao](https://github.com/ErosBryant)
 * Professor: [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/)
 
