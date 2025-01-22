@@ -13,6 +13,9 @@
 | :------ | :-------- | :------------------------------------------------------------------------------------ | :-------------------------------------- |
 | Week 0  | 25-01-08  | ["Kick-off Meeting"](./presentation_file/W0_HojinShin_Kick-off.pdf)                                                                  | Hojin Shin |
 | Week 1 | 25-01-14  | ["Introduction 1"](./presentation_file/W1_HojinShin_Introduction1.pdf)| Hojin Shin |
+| Week 2 | 25-01-21 | ["NoSQL Database"](./presentation_file/W2_HojinShin_NoSQL_Database.pdf)| Hojin Shin |
+|  |  | ["Related Work"](./presentation_file/W2_GuangxunZhao_related_work.pdf)| Guangxun Zhao |
+|  |  | ["How to Analyze RocksDB"](./presentation_file/W1_HojinShin_Introduction1.pdf)| Hojin Shin |
 
 
 ### Evaluation Presentation
