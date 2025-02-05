@@ -19,9 +19,14 @@
 
 
 ### Evaluation Presentation
-|        |          | Presenter                               | Contents |
+|        | Date | Presenter                               | Contents |
 | :----- | :------- | :-------------------------------------- | :------- |
-| Week |  | |  |
+| Week 3 | 25-02-04 | Daeeun Lee, Gyeongjun Ha | ["Cache and WAL"](./presentation_file/Team1/Team1_Week3.pptx) |
+| | | Juhee Park, Hyoeun Chae | ["Write (Compaction & Memtable)"](./presentation_file/Team2/Team2_Week3.pptx) |
+| | | Suhwan Shin, Zhu Yongjie | ["RocksDB Experiments"](./presentation_file/Team3/Team3_Week3.pptx) |
+| | | Dayeon Wee, Seonghyeon Cho | ["RocksDB Benchmark Evaluation"](./presentation_file/Team4/Team4_Week3.pptx) |
+| | | Yongmin Lee, Hojin Shin | ["Indexes: SkipList B+Tree ART"](./presentation_file/Team5/Team5_Week3.pptx)|
+
 
 ## Teams
 * Student:
@@ -113,8 +118,7 @@
   - [Uftrace](https://github.com/namhyung/uftrace)
 
 * File
-  - [presentation file format](./presentation_file/presentation_file_format.pptx)
-  - [kcc research paper format](./file/%5Bformat%5Dresearch_paper(KCC).hwp)
+  - [presentation file format](./presentation_file/presentation_file_tamplate.pptx)
 
 * Previous Study
   - [DKU Leveldb Study, 2022](https://github.com/DKU-StarLab/leveldb-study)
