@@ -27,10 +27,16 @@
 | | | Dayeon Wee, Seonghyeon Cho | ["RocksDB Benchmark Evaluation"](./presentation_file/Team4/Team4_Week3.pptx) |
 | | | Yongmin Lee, Hojin Shin | ["Indexes: SkipList B+Tree ART"](./presentation_file/Team5/Team5_Week3.pptx)|
 | Week 4 | 25-02-11 | Daeeun Lee, Gyeongjun Ha | ["In-memory data structure: SkipList"](./presentation_file/Team1/Team1_Week4.pptx) |
-| | | Juhee Park, Hyoeun Chae, Seonghyeon Cho | ["Write (Compaction & Memtable)"](./presentation_file/Team2/Team2_Week4.pptx) |k
+| | | Juhee Park, Hyoeun Chae, Seonghyeon Cho | ["Write (Compaction & Memtable)"](./presentation_file/Team2/Team2_Week4.pptx) |
 | | | Suhwan Shin, Zhu Yongjie | ["Advanced RocksDB"](./presentation_file/Team3/Team3_Week4.pptx) |
 | | | Dayeon Wee | ["Experiment: Percentage of Key"](./presentation_file/Team4/Team4_Week4.pptx) |
 | | | Yongmin Lee, Hojin Shin | ["Using db_bench in FEMU"](./presentation_file/Team5/Team5_Week4.pptx) |
+| Week 5 | 25-02-18 | Daeeun Lee, Gyeongjun Ha | ["SkipList and Secondary Instance"](./presentation_file/Team1/Team1_Week5.pptx) |
+| | | Juhee Park, Hyoeun Chae, Seonghyeon Cho | ["Write (Compaction & Memtable)"](./presentation_file/Team2/Team2_Week5.pptx) |
+| | | Suhwan Shin, Zhu Yongjie | ["Advanced RocksDB"](./presentation_file/Team3/Team3_Week5.pptx) |
+| | | Dayeon Wee | ["Experiment: Percentage of Key"](./presentation_file/Team4/Team4_Week5.pptx) |
+| | | Yongmin Lee, Hojin Shin | ["Varying Latency of SSD (using FEMU)"](./presentation_file/Team5/Team5_Week5.pptx) |
+
 
 
 ## Teams
