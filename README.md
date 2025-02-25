@@ -36,6 +36,11 @@
 | | | Suhwan Shin, Zhu Yongjie | ["Advanced RocksDB"](./presentation_file/Team3/Team3_Week5.pptx) |
 | | | Dayeon Wee | ["Experiment: Percentage of Key"](./presentation_file/Team4/Team4_Week5.pptx) |
 | | | Yongmin Lee, Hojin Shin | ["Varying Latency of SSD (using FEMU)"](./presentation_file/Team5/Team5_Week5.pptx) |
+| Week 6 | 25-02-15 | Daeeun Lee, Gyeongjun Ha | ["Secondary Instance"](./presentation_file/Team1/Team1_Week6.pptx) |
+| | | Juhee Park, Hyoeun Chae, Seonghyeon Cho | ["Final Presentation"](./presentation_file/Team2/Team2_Week6.pptx) |
+| | | Suhwan Shin, Zhu Yongjie | ["Advanced RocksDB"](./presentation_file/Team3/Team3_Week6.pptx) |
+| | | Dayeon Wee | ["Key-Value 크기 비율이 RocksDB의 Compaction과 전반적인 성능에 미치는 영향 분석"](./presentation_file/Team4/Team4_Week6.pptx) |
+| | | Yongmin Lee, Hojin Shin | ["Final Presentation"](./presentation_file/Team5/Team5_Week6.pptx) |
 
 
 
